@@ -1,65 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Biology Robotics Project</title>
-<style>
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #eef6ff;
-    color: #222;
-}
 
-header {
-    background: #003366;
-    color: white;
-    text-align: center;
-    padding: 25px;
-}
+<p>
+Possible solutions include advanced microscopes, robotic monitoring systems, and artificial intelligence technologies capable of helping doctors perform faster and more accurate diagnoses.
+</p>
 
-nav {
-    background: #0055aa;
-    padding: 15px;
-    text-align: center;
-    position: sticky;
-    top: 0;
-}
+<ul>
+<li>Microscopic observation limitations</li>
+<li>Respiratory diseases</li>
+<li>Difficulty detecting microorganisms</li>
+<li>Need for faster medical diagnosis</li>
+</ul>
+</section>
 
-nav a {
-    color: white;
-    text-decoration: none;
-    margin: 8px;
-    font-weight: bold;
-}
+<section id="robotic">
+<center>
+<h2>Robotic Solution</h2>
+<img src="https://picsum.photos/500/300?random=7" alt="Robot Image">
+<img src="https://picsum.photos/500/300?random=8" alt="Technology Image">
+</center>
 
-nav a:hover {
-    color: yellow;
-}
+<p>
+Our robotic solution is a healthcare nanorobot designed to monitor body functions and detect diseases. The robot could travel through the bloodstream and identify dangerous microorganisms or abnormal cells.
+</p>
 
-section {
-    padding: 30px;
-    border-bottom: 2px solid #cccccc;
-}
+<p>
+The robot would contain sensors, microscopic cameras, and artificial intelligence systems capable of sending medical information to doctors in real time. This technology could improve diagnosis precision and patient monitoring.
+</p>
 
-h1, h2, h3 {
-    color: #003366;
-}
+<p>
+The nanorobot could also monitor oxygen and carbon dioxide levels to help patients with respiratory conditions or athletes during exercise.
+</p>
 
-p {
-    line-height: 1.7;
-    font-size: 18px;
-}
+<ol>
+<li>Scan the human body</li>
+<li>Detect abnormal cells</li>
+<li>Send information to doctors</li>
+<li>Improve healthcare precision</li>
+</ol>
+</section>
 
-img {
-    width: 300px;
-    max-width: 100%;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 10px;
-    margin: 10px;
-}
+<section id="programming">
+<center>
+<h2>Programming</h2>
+<img src="https://picsum.photos/500/300?random=9" alt="Programming Image">
+<img src="https://picsum.photos/500/300?random=10" alt="Coding Image">
+</center>
 
-iframe {
+<p>
+The programming section explains the logic and algorithms used for the healthcare nanorobot. Artificial intelligence would help the robot analyze biological data and react according to patient conditions.
+</p>
+
+<p><b>Algorithm:</b></p>
+<ul>
+<li>Start robot system</li>
+<li>Scan body conditions</li>
+<li>Detect abnormal cells</li>
+<li>Send medical report</li>
+<li>Continue monitoring</li>
+</ul>
+
+<p><b>Flowchart Description:</b><br>
+Robot starts → scans patient → compares biological data → detects problem → sends alert.
+</p>
+
+<p><b>AI Prompts Used:</b></p>
+<ul>
+<li>Create a medical nanorobot design</li>
+<li>Explain how AI helps healthcare</li>
+<li>Generate robotic monitoring ideas</li>
+</ul>
+
 </html>
